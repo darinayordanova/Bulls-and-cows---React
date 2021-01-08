@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/Bulls-and-cows---React/static/css/main.2e175239.chunk.css",
-    "main.js": "/Bulls-and-cows---React/static/js/main.3458f9a6.chunk.js",
-    "main.js.map": "/Bulls-and-cows---React/static/js/main.3458f9a6.chunk.js.map",
+    "main.css": "/Bulls-and-cows---React/static/css/main.804c13e8.chunk.css",
+    "main.js": "/Bulls-and-cows---React/static/js/main.a401afd4.chunk.js",
+    "main.js.map": "/Bulls-and-cows---React/static/js/main.a401afd4.chunk.js.map",
     "runtime-main.js": "/Bulls-and-cows---React/static/js/runtime-main.8246fa16.js",
     "runtime-main.js.map": "/Bulls-and-cows---React/static/js/runtime-main.8246fa16.js.map",
     "static/js/2.e633524d.chunk.js": "/Bulls-and-cows---React/static/js/2.e633524d.chunk.js",
     "static/js/2.e633524d.chunk.js.map": "/Bulls-and-cows---React/static/js/2.e633524d.chunk.js.map",
     "index.html": "/Bulls-and-cows---React/index.html",
-    "precache-manifest.95b235c9db45ff08f6fea19c55efb496.js": "/Bulls-and-cows---React/precache-manifest.95b235c9db45ff08f6fea19c55efb496.js",
+    "precache-manifest.8d41771db4b72148f1ed832699cc5d2e.js": "/Bulls-and-cows---React/precache-manifest.8d41771db4b72148f1ed832699cc5d2e.js",
     "service-worker.js": "/Bulls-and-cows---React/service-worker.js",
-    "static/css/main.2e175239.chunk.css.map": "/Bulls-and-cows---React/static/css/main.2e175239.chunk.css.map",
+    "static/css/main.804c13e8.chunk.css.map": "/Bulls-and-cows---React/static/css/main.804c13e8.chunk.css.map",
     "static/js/2.e633524d.chunk.js.LICENSE": "/Bulls-and-cows---React/static/js/2.e633524d.chunk.js.LICENSE"
   },
   "entrypoints": [
     "static/js/runtime-main.8246fa16.js",
     "static/js/2.e633524d.chunk.js",
-    "static/css/main.2e175239.chunk.css",
-    "static/js/main.3458f9a6.chunk.js"
+    "static/css/main.804c13e8.chunk.css",
+    "static/js/main.a401afd4.chunk.js"
   ]
 }

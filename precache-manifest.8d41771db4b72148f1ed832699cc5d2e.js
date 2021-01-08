@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "77053da542ae66627675f6a18e92fb9d",
+    "revision": "c90d8f0b3a2457d6806cbca2940758c9",
     "url": "/Bulls-and-cows---React/index.html"
   },
   {
-    "revision": "4428ab6dd1da21f3c4da",
-    "url": "/Bulls-and-cows---React/static/css/main.2e175239.chunk.css"
+    "revision": "c884904d871264514c7b",
+    "url": "/Bulls-and-cows---React/static/css/main.804c13e8.chunk.css"
   },
   {
     "revision": "c6580005c8a6c3d49cc0",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Bulls-and-cows---React/static/js/2.e633524d.chunk.js.LICENSE"
   },
   {
-    "revision": "4428ab6dd1da21f3c4da",
-    "url": "/Bulls-and-cows---React/static/js/main.3458f9a6.chunk.js"
+    "revision": "c884904d871264514c7b",
+    "url": "/Bulls-and-cows---React/static/js/main.a401afd4.chunk.js"
   },
   {
     "revision": "90da99123beaa3f9fd36",
